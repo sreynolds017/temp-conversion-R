@@ -2,4 +2,5 @@ Package: TempConverter
 Type: Package
 Title: Temperature Conversion Package
 Version: 1.0.0.0
+License: GNU General Public License v3.0
 RoxygenNote: 7.1.1
